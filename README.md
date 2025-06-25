@@ -43,6 +43,10 @@ This project contains two microservices that together handle end-to-end Stripe p
 
 ## 📂 Folder Structure
 
+/stripe-payment-integration
+├── payment-processing-service
+└── stripe-provider-service
+
 ## 👨‍💻 Author
 
 **Kongari Sivaram**  
